@@ -3,10 +3,10 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumik12345&show_icons=true" alt="soumik12345" /> </p>
 
-- Read my content at [https://soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/).
+<p align="center">Read my content at <a href="https://soumik12345.github.io/geekyrakshit-blog/">https://soumik12345.github.io/geekyrakshit-blog/</a></p>
 
-- Watch my content on [YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ).
+<p align="center">Watch my content on <a href="https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ">YouTube</a></p>
 
-- Connect with me on [https://www.linkedin.com/in/soumikrakshit/](https://www.linkedin.com/in/soumikrakshit/).
+<p align="center">Connect with me on <a href="https://www.linkedin.com/in/soumikrakshit/">LinkedIn</a></p>
 
-- [Hire me](http://soumik12345.github.io/).
+<p align="center"><a href="http://soumik12345.github.io/">Hire Me</a></p>
