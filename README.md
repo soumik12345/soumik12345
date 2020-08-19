@@ -16,3 +16,9 @@
   <img alt="Coverage" src="https://img.shields.io/badge/-SoumikRakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumikrakshit/" width="170">
   </a>
 </p>
+
+<p align="center">
+   <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
+  <img alt="Coverage" src="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social" height="25">
+  </a>
+</p>
