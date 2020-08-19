@@ -9,6 +9,10 @@
 
 <p align="center">Watch my content on <a href="https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ">YouTube</a></p>
 
-<p align="center">Connect with me on <a href="https://www.linkedin.com/in/soumikrakshit/">LinkedIn</a></p>
-
 <p align="center"><a href="http://soumik12345.github.io/">Hire Me</a></p>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/soumikrakshit/">
+  <img alt="Coverage" src="https://img.shields.io/badge/-SoumikRakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumikrakshit/" width="170">
+  </a>
+</p>
