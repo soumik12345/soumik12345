@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=soumik12345" /> </p>
 
-<p align="center">Find my ML Projects at <a href="https://madewithml.com/@soumik12345/">https://madewithml.com/@soumik12345/</a></p>
-
 <p align="center">Read my content at <a href="https://soumik12345.github.io/geekyrakshit-blog/">https://soumik12345.github.io/geekyrakshit-blog/</a></p>
 
 <p align="center">Watch my content on <a href="https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ">YouTube</a></p>
