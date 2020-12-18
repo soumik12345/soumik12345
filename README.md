@@ -56,14 +56,14 @@
    - need any help in debugging your code
    - need any help with competitive programming
 
+- 📘 Check out my:
+   - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
+   - videos at [GeekyRakshit - YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ)
+
 - ⚡ Fun fact:
    - I have insomnia 😵
    - I play Minecraft 🎮
    - I write horror stories 💀
-
-- 📘 Check out my:
-   - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
-   - videos at [GeekyRakshit - YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ)
 
 - 📫 More details:
    - [soumik12345.github.io/](https://soumik12345.github.io/)
