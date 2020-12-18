@@ -52,7 +52,7 @@
    - want me to debug your code
    - need any help with software engineering or web development or competitive programming
 
-- 📘 Check out my:
+- 📘 Check out my content:
    - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
    - videos at [GeekyRakshit - YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ)
 
