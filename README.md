@@ -51,10 +51,10 @@
 
 - 👎 Don't reach out to me if you:
    - work at Byju's or WhiteHatJr
-   - need of career counselling
+   - need career counselling
    - need any help in software engineering
    - need any help in debugging your code
-   - need any hepl with competitive programming
+   - need any help with competitive programming
 
 - ⚡ Fun fact:
    - I have insomnia 😵
@@ -83,4 +83,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik12345&layout=compact&count_private=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=soumik12345)
-
