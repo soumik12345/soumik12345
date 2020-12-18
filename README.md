@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Soumik Rakshit</h1>
 <h3 align="center">Software Development Engineer || Deep Learning Researcher</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=soumik12345&show_icons=true" alt="soumik12345" /> </p>
+---
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=soumik12345" /> </p>
+🔭 I’m currently working at PyImageSearch on computer vision and deep learning.
+
+![](https://github-readme-stats.vercel.app/api?username=soumik12345&count_private=true&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik12345&layout=compact&count_private=true)
+
+![](https://github-profile-trophy.vercel.app/?username=soumik12345)
 
 <p align="center">Read my content at <a href="https://soumik12345.github.io/geekyrakshit-blog/">https://soumik12345.github.io/geekyrakshit-blog/</a></p>
 
