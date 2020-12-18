@@ -49,9 +49,8 @@
 - 👎 Don't reach out to me if you:
    - work at Byju's or WhiteHatJr
    - need career counselling
-   - need any help in software engineering
-   - need any help in debugging your code
-   - need any help with competitive programming
+   - want me to debug your code
+   - need any help with software engineering or web development or competitive programming
 
 - 📘 Check out my:
    - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
