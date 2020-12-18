@@ -3,11 +3,19 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/soumikrakshit/">
-  <img alt="Coverage" src="https://img.shields.io/badge/-SoumikRakshit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumikrakshit/" width="170">
+      <img src="https://img.shields.io/badge/LinkedIn-Soumik--Rakshit-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
   </a>
+   <a href="mailto:19soumik.rakshit96@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-19soumik.rakshit96@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
+  </a>
+</p>
+
+<p align="center">
    <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
   <img alt="Coverage" src="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social" height="25">
   </a>
+   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=soumik12345&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
+   <img alt="Last Update" src="https://img.shields.io/github/last-commit/soumik12345/soumik12345?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
 ---
