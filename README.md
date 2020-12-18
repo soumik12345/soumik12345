@@ -35,11 +35,8 @@
 
 - 🌱 Things I’m currently learning:
    - Natural Language Processing
-   - OpenGL
-   - Vulkan
-   - Metal
-   - Cuda
-   - OpenCL
+   - OpenGL, Vulkan, Metal
+   - Cuda, OpenCL
 
 - 👬 Looking forward to collaborate on:
    - Clean and reproducible implementation of Deep Learning Research Papers
