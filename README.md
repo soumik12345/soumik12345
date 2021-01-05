@@ -30,7 +30,7 @@
    - Clean and reproducible implementation of Deep Learning Research Papers
    - High Dynamic Range Imaging
    - 3D Point Cloud Segmentation
-   - Console based 3D Graphics
+   - Real-Time Rendering
    - 3D Graphics Engines
 
 - 🌱 Things I’m currently learning:
