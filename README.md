@@ -75,7 +75,3 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=soumik12345&count_private=true&show_icons=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik12345&layout=compact&count_private=true)
-
-![](https://github-profile-trophy.vercel.app/?username=soumik12345)
