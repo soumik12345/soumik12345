@@ -29,9 +29,9 @@
 - 🔭 Things I'm currently working on:
    - Clean and reproducible implementation of Deep Learning Research Papers
    - High Dynamic Range Imaging
-   - 3D Point Cloud Segmentation
    - Real-Time Rendering
    - 3D Graphics Engines
+   - Ray Tracing
 
 - 🌱 Things I’m currently learning:
    - Natural Language Processing
