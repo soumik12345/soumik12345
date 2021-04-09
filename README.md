@@ -28,15 +28,11 @@
 
 - 🔭 Things I'm currently working on:
    - Clean and reproducible implementation of Deep Learning Research Papers
-   - High Dynamic Range Imaging
-   - Real-Time Rendering
-   - 3D Graphics Engines
-   - Ray Tracing
+   - Real-Time Rendering and Ray Tracing
 
 - 🌱 Things I’m currently learning:
    - Natural Language Processing
-   - OpenGL, Vulkan, Directx
-   - Cuda, OpenCL
+   - OpenGL, Vulkan, Directx, Cuda, OpenCL
 
 - 👬 Looking forward to collaborate on:
    - Clean and reproducible implementation of Deep Learning Research Papers
@@ -45,12 +41,6 @@
    - need any help regarding Deep Learning Projects
    - want to engage in a meaningful conversation regarding Deep Learning, Mathematics or Computer Graphics 
    - want to [hire me](https://soumik12345.github.io/assets/docs/Resume_Soumik_Rakshit.pdf)
-
-- 👎 Don't reach out to me if you:
-   - work at Byju's or WhiteHatJr
-   - expecting career counselling
-   - want me to debug your code
-   - expecting any help with software engineering or web development or competitive programming
 
 - 📘 Check out my content:
    - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
