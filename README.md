@@ -31,8 +31,8 @@
    - Real-Time Rendering and Ray Tracing
 
 - 🌱 Things I’m currently learning:
-   - Natural Language Processing
-   - OpenGL, Vulkan, Directx, Cuda, OpenCL
+   - Cuda, OpenCL, Jax
+   - Vulkan, Directx
 
 - 👬 Looking forward to collaborate on:
    - Clean and reproducible implementation of Deep Learning Research Papers
