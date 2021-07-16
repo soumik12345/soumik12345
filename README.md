@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumik Rakshit</h1>
-<h3 align="center">Software Development Engineer || Deep Learning Researcher</h3>
+<h3 align="center">Deep Learning Engineer</h3>
 
 <br>
 
