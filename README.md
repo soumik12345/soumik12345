@@ -43,8 +43,29 @@
    - want to [hire me](https://soumik12345.github.io/assets/docs/Resume_Soumik_Rakshit.pdf)
 
 - 📘 Check out my content:
-   - blogs at [soumik12345.github.io/geekyrakshit-blog/](https://soumik12345.github.io/geekyrakshit-blog/)
-   - videos at [GeekyRakshit - YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ)
+   - Technical Reports and Research Paper Summaries at [wandb.ai/geekyrakshit](https://wandb.ai/geekyrakshit)
+   - Videos at [GeekyRakshit - YouTube](https://www.youtube.com/channel/UC968ESa0PKiJl9e3CyIRFZQ)
+   - End-to-end Machine Learning Examples:
+     - [Multiclass semantic segmentation using DeepLabV3+](https://keras.io/examples/)
+     - [Low-light image enhancement using MIRNet](https://keras.io/examples/vision/mirnet/)
+     - [Zero-DCE for low-light image enhancement](https://keras.io/examples/vision/zero_dce/)
+     - [Large-scale multi-label text classification](https://keras.io/examples/nlp/multi_label_classification/) - colaboration with [Sayak Paul](https://github.com/sayakpaul)
+     - [Point cloud segmentation with PointNet](https://keras.io/examples/vision/pointnet_segmentation/) - colaboration with [Sayak Paul](https://github.com/sayakpaul)
+     - [GauGAN for conditional image generation](https://keras.io/examples/generative/gaugan/) - colaboration with [Sayak Paul](https://github.com/sayakpaul)
+     - [[Jax + Flax] Minimal Implementation of NeRF](https://wandb.ai/wandb/nerf-jax/reports/Implementing-NeRF-in-JAX--VmlldzoxODA2NDk2) - colaboration with [Saurav Maheshkar](https://wandb.ai/sauravm)
+     - [Working with FuncTorch: An Introduction](https://wandb.ai/functorch-examples/functorch-examples/reports/Working-with-FuncTorch-An-Introduction--VmlldzoxNzMxNDI1) - colaboration with [Thomas Capelle](https://github.com/tcapelle)
+     - [Enet-Camvid](https://soumik12345.github.io/blog/computervision/deeplearning/pytorch/segmentation/2020/05/05/enet-camvid.html)
+     - [YOLOv3 using Tensorflow 2.0](https://soumik12345.github.io/blog/computervision/deeplearning/tensorflow2/2020/04/13/yolo-v3-using-tensorflow-2-0.html)
+     - [Relativistic AnimeGAN](https://soumik12345.github.io/blog/computervision/deeplearning/gan/anime/keras/python/tensorflow/2019/07/22/relativistic-anime-gan.html)
+     - [Automatic Number Plate Recognition](https://soumik12345.github.io/blog/computervision/deeplearning/anpr/numberplate/convolution/recurrent/keras/python/tensorflow/2020/04/13/anpr.html)
+   - Research Paper Summaries:
+     - [Efficient Graph-Based Image Segmentation](https://soumik12345.github.io/blog/computervision/segmentation/maths/python/2020/09/17/efficient-graph-based-image-segmentation.html)
+     - [Depthwise Separable Convolutions in Deep Learning](https://soumik12345.github.io/blog/cnn/computervision/convolution/deeplearning/2019/10/19/depthwise-seperable-convolution.html)
+     - [PoE-GAN: Generating Images from Multi-Modal Inputs](https://wandb.ai/geekyrakshit/poegan/reports/PoE-GAN-Generating-Images-from-Multi-Modal-Inputs--VmlldzoxNTA5MzUx?galleryTag=computer-vision)
+     - [Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild](https://wandb.ai/geekyrakshit/robust-perception-locomotion/reports/Learning-Robust-Perceptive-Locomotion-for-Quadrupedal-Robots-in-the-Wild--VmlldzoxNjI0NjUy)
+     - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://wandb.ai/geekyrakshit/block-nerf/reports/Block-NeRF-Scalable-Large-Scene-Neural-View-Synthesis--VmlldzoxNjIyMzI4)
+     - [EditGAN: High-Precision Semantic Image Editing](https://wandb.ai/geekyrakshit/editgan/reports/EditGAN-High-Precision-Semantic-Image-Editing--VmlldzoxNzc1MDYw)
+     - [Barbershop: Hair Transfer with GAN-Based Image Compositing Using Segmentation Masks](https://wandb.ai/geekyrakshit/barbershop/reports/Barbershop-Hair-Transfer-with-GAN-Based-Image-Compositing-Using-Segmentation-Masks--VmlldzoxNzk0OTY3)
 
 - ⚡ Fun fact:
    - I have insomnia 😵
