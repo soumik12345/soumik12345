@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/Gmail-19soumik.rakshit96@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
   </a>
   
-  <a href="https://github.com/soumik12345">
-  <img src="https://img.shields.io/badge/Github-soumik12345-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
-  </a>
-  
   <a href="https://twitter.com/soumikRakshit96">
   <img src="https://img.shields.io/badge/Twitter-@soumikRakshit96-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
   </a>
