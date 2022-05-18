@@ -62,6 +62,7 @@
      - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://wandb.ai/geekyrakshit/block-nerf/reports/Block-NeRF-Scalable-Large-Scene-Neural-View-Synthesis--VmlldzoxNjIyMzI4)
      - [EditGAN: High-Precision Semantic Image Editing](https://wandb.ai/geekyrakshit/editgan/reports/EditGAN-High-Precision-Semantic-Image-Editing--VmlldzoxNzc1MDYw)
      - [Barbershop: Hair Transfer with GAN-Based Image Compositing Using Segmentation Masks](https://wandb.ai/geekyrakshit/barbershop/reports/Barbershop-Hair-Transfer-with-GAN-Based-Image-Compositing-Using-Segmentation-Masks--VmlldzoxNzk0OTY3)
+     - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://wandb.ai/geekyrakshit/Extracting%20Triangular%203D%20Models/reports/Extracting-Triangular-3D-Models-Materials-and-Lighting-From-Images--VmlldzoxOTQ2MDEy)
 
 - ⚡ Fun fact:
    - I have insomnia 😵
