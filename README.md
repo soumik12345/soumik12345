@@ -72,7 +72,7 @@
      - [Kinect-Vision: A Computer Vision System to use Hand Gestures for Controlling Games](https://github.com/soumik12345/Kinect-Vision)
      - [Arxiv2Kindle: A simple utility script that converts LaTeX source downloaded from Arxiv and recompiles it to better fit a reading device (such as a Kindle)](https://github.com/soumik12345/Arxiv2Kindle)
      - [Manga Scraper: A utility for downloading Manga into PDF format](https://github.com/soumik12345/Manga-Scraper)
-     - [BrainFuck-Interpreter](A simple BrainFuck Interpreter written in Java)
+     - [BrainFuck-Interpreter: A simple BrainFuck Interpreter written in Java](https://github.com/soumik12345/BrainFuck-Interpreter)
 
 - ⚡ Fun fact:
    - I have insomnia 😵
