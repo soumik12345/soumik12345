@@ -57,12 +57,22 @@
    - Research Paper Summaries:
      - [Efficient Graph-Based Image Segmentation](https://soumik12345.github.io/blog/computervision/segmentation/maths/python/2020/09/17/efficient-graph-based-image-segmentation.html)
      - [Depthwise Separable Convolutions in Deep Learning](https://soumik12345.github.io/blog/cnn/computervision/convolution/deeplearning/2019/10/19/depthwise-seperable-convolution.html)
-     - [PoE-GAN: Generating Images from Multi-Modal Inputs](https://wandb.ai/geekyrakshit/poegan/reports/PoE-GAN-Generating-Images-from-Multi-Modal-Inputs--VmlldzoxNTA5MzUx?galleryTag=computer-vision)
-     - [Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild](https://wandb.ai/geekyrakshit/robust-perception-locomotion/reports/Learning-Robust-Perceptive-Locomotion-for-Quadrupedal-Robots-in-the-Wild--VmlldzoxNjI0NjUy)
-     - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://wandb.ai/geekyrakshit/block-nerf/reports/Block-NeRF-Scalable-Large-Scene-Neural-View-Synthesis--VmlldzoxNjIyMzI4)
-     - [EditGAN: High-Precision Semantic Image Editing](https://wandb.ai/geekyrakshit/editgan/reports/EditGAN-High-Precision-Semantic-Image-Editing--VmlldzoxNzc1MDYw)
-     - [Barbershop: Hair Transfer with GAN-Based Image Compositing Using Segmentation Masks](https://wandb.ai/geekyrakshit/barbershop/reports/Barbershop-Hair-Transfer-with-GAN-Based-Image-Compositing-Using-Segmentation-Masks--VmlldzoxNzk0OTY3)
-     - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://wandb.ai/geekyrakshit/Extracting%20Triangular%203D%20Models/reports/Extracting-Triangular-3D-Models-Materials-and-Lighting-From-Images--VmlldzoxOTQ2MDEy)
+     - [PoE-GAN: Generating Images from Multi-Modal Inputs](https://wandb.ai/geekyrakshit/poegan/reports/PoE-GAN-Generating-Images-from-Multi-Modal-Inputs--VmlldzoxNTA5MzUx?galleryTag=computer-vision) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=eaSTGOgO-ss&t=1s)
+     - [Learning Robust Perceptive Locomotion for Quadrupedal Robots in the Wild](https://wandb.ai/geekyrakshit/robust-perception-locomotion/reports/Learning-Robust-Perceptive-Locomotion-for-Quadrupedal-Robots-in-the-Wild--VmlldzoxNjI0NjUy) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=XM-rKTOyD_k)
+     - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://wandb.ai/geekyrakshit/block-nerf/reports/Block-NeRF-Scalable-Large-Scene-Neural-View-Synthesis--VmlldzoxNjIyMzI4) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=8AZhcnWOK7M&t=11s)
+     - [EditGAN: High-Precision Semantic Image Editing](https://wandb.ai/geekyrakshit/editgan/reports/EditGAN-High-Precision-Semantic-Image-Editing--VmlldzoxNzc1MDYw) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=cS4jCvzey-4)
+     - [Barbershop: Hair Transfer with GAN-Based Image Compositing Using Segmentation Masks](https://wandb.ai/geekyrakshit/barbershop/reports/Barbershop-Hair-Transfer-with-GAN-Based-Image-Compositing-Using-Segmentation-Masks--VmlldzoxNzk0OTY3) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=YNY_ZEuDncM)
+     - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://wandb.ai/geekyrakshit/Extracting%20Triangular%203D%20Models/reports/Extracting-Triangular-3D-Models-Materials-and-Lighting-From-Images--VmlldzoxOTQ2MDEy) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=5j8I7V6blqM)
+   - Other Projects:
+     - [Weights and Biases Callback for Elegy](https://github.com/poets-ai/elegy/pull/220)
+     - [Weights and Biases Integration for ZenML](https://github.com/zenml-io/zenml/pull/518) - colaboration with [Hamza Tahir](https://github.com/htahir1)
+     - [Status Report Template: A Template Project for W&B Status and Analysis Report in the Autonomous Vehicle Domain](https://github.com/soumik12345/Wandb-Status-Report-Template) - colaboration with [Thomas Capelle](https://github.com/tcapelle)
+     - [Colorization using Optimization](https://github.com/soumik12345/colorization-using-optimization)
+     - [Radium: A Small and Lightweight Ray Tracing Engine](https://github.com/soumik12345/Radium)
+     - [Kinect-Vision: A Computer Vision System to use Hand Gestures for Controlling Games](https://github.com/soumik12345/Kinect-Vision)
+     - [Arxiv2Kindle: A simple utility script that converts LaTeX source downloaded from Arxiv and recompiles it to better fit a reading device (such as a Kindle)](https://github.com/soumik12345/Arxiv2Kindle)
+     - [Manga Scraper: A utility for downloading Manga into PDF format](https://github.com/soumik12345/Manga-Scraper)
+     - [BrainFuck-Interpreter](A simple BrainFuck Interpreter written in Java)
 
 - ⚡ Fun fact:
    - I have insomnia 😵
