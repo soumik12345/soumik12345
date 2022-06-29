@@ -64,6 +64,7 @@
      - [Barbershop: Hair Transfer with GAN-Based Image Compositing Using Segmentation Masks](https://wandb.ai/geekyrakshit/barbershop/reports/Barbershop-Hair-Transfer-with-GAN-Based-Image-Compositing-Using-Segmentation-Masks--VmlldzoxNzk0OTY3) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=YNY_ZEuDncM)
      - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://wandb.ai/geekyrakshit/Extracting%20Triangular%203D%20Models/reports/Extracting-Triangular-3D-Models-Materials-and-Lighting-From-Images--VmlldzoxOTQ2MDEy) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=5j8I7V6blqM)
      - [Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields](https://wandb.ai/geekyrakshit/mip-nerf-360/reports/Mip-NeRF-360-Unbounded-Anti-Aliased-Neural-Radiance-Fields--VmlldzoxOTc4Mjk4?utm_source=youtube&utm_medium=video&utm_campaign=2mp&utm_content=Mip-NeRF) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=N-Pf9lCFi4E)
+     - [Modern Evolution Strategies for Creativity](https://wandb.ai/geekyrakshit/es-clip/reports/Modern-Evolution-Strategies-for-Creativity--VmlldzoyMDU3NTQ2?galleryTag=tmp) - Featured on [Two Minute Papers](https://www.youtube.com/watch?v=a0ubtHxj1UA)
    - Other Projects:
      - [Weights and Biases Callback for Elegy](https://github.com/poets-ai/elegy/pull/220)
      - [Weights and Biases Integration for ZenML](https://github.com/zenml-io/zenml/pull/518) - colaboration with [Hamza Tahir](https://github.com/htahir1)
