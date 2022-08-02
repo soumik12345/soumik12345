@@ -52,25 +52,35 @@ if __name__ == "__main__":
     htmldoc = html.fromstring(markdown.markdown(readme_content))
     xml_doc = etree.tostring(htmldoc)
     readme_content_dict = xmltodict.parse(xml_doc)["div"]
+    
+    social_badges = f"[![]({readme_content_dict['p'][1]['a'][0]['img']['@src']})]({readme_content_dict['p'][1]['a'][0]['@href']})"
+    social_badges += f"[![]({readme_content_dict['p'][1]['a'][1]['img']['@src']})]({readme_content_dict['p'][1]['a'][1]['@href']})"
+    social_badges += f"[![]({readme_content_dict['p'][1]['a'][2]['img']['@src']})]({readme_content_dict['p'][1]['a'][2]['@href']})"
+    social_badges += f"[![]({readme_content_dict['p'][2]['a']['img']['@src']})]({readme_content_dict['p'][2]['a']['@href']})"
     blocks = [
         wb_report.H1(readme_content_dict["h1"]["#text"]),
         wb_report.H2(readme_content_dict["h3"][0]["#text"]),
+        wb_report.MarkdownBlock(social_badges),
         wb_report.HorizontalRule(),
-        wb_report.MarkdownBlock(
-            f"[![]({readme_content_dict['p'][1]['a'][0]['img']['@src']})]({readme_content_dict['p'][1]['a'][0]['@href']}) [![]({readme_content_dict['p'][1]['a'][1]['img']['@src']})]({readme_content_dict['p'][1]['a'][1]['@href']})"
-        ),
     ]
     blocks += get_about_me_section(readme_content)
+
     # get_content_section(readme_content)
-    
+
     for block in blocks:
         print(block)
 
-    report = wb_report.Report(
-        project="resume",
-        entity="geekyrakshit",
-        title="Resume of Soumik Rakshit",
-        description="Interactive Resume of Soumik Rakshit",
-        blocks=blocks,
-    )
-    report.save()
+    try:
+        api = wandb.Api()
+        report = api.load_report("geekyrakshit/resume/reports/Resume-of-Soumik-Rakshit--VmlldzoyNDEwODAw")
+        report.blocks = blocks
+        report.save()
+    except Exception as e:
+        report = wb_report.Report(
+            project="resume",
+            entity="geekyrakshit",
+            title="Resume of Soumik Rakshit",
+            description="Interactive Resume of Soumik Rakshit",
+            blocks=blocks,
+        )
+        report.save()

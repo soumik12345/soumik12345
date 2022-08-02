@@ -12,9 +12,9 @@
       <img src="https://img.shields.io/badge/LinkedIn-Soumik--Rakshit-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>
   </a>
    
-<!--    <a href="mailto:19soumik.rakshit96@gmail.com">
+   <a href="mailto:19soumik.rakshit96@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-19soumik.rakshit96@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>
-  </a> -->
+  </a>
   
   <a href="https://twitter.com/soumikRakshit96">
   <img src="https://img.shields.io/badge/Twitter-@soumikRakshit96-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
