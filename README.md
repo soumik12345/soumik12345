@@ -1,7 +1,5 @@
 # Hello, I'm Soumik Rakshit 👋
 
----
-
 ### About Me
 
 - 🖥️ I am working at [Weights & Biases](https://wandb.ai/site) as a Machine Learning Engineer.
