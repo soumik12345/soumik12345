@@ -10,7 +10,7 @@
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles [twitter.com/soumikrakshit96 | linkedin.com/in/soumikrakshit].
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing God of War Ragnarok).
-- 😁 More about myself at wandb.me/soumik-rakshit
+- 😁 More about myself at [wandb.me/soumik-rakshit](wandb.me/soumik-rakshit).
 
 ### Github Stats
 
