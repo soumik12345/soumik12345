@@ -7,7 +7,7 @@
 - 🚀 I build MLOps pipelines for open-source repositories like Keras, Kaolin-Wisp, YOLOv5, etc.
 - 🌱 I'm currently learning Neural Rendering, Neural Approximation and Vision-Language Modelling.
 - 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers.
-- 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles [twitter.com/soumikrakshit96 | linkedin.com/in/soumikrakshit].
+- 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles [[twitter.com/soumikrakshit96](twitter.com/soumikrakshit96) | [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)].
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing God of War Ragnarok).
 - 😁 More about myself at [wandb.me/soumik-rakshit](wandb.me/soumik-rakshit).
