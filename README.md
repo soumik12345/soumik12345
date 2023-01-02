@@ -5,7 +5,7 @@
 - 🖥️ I am working at [Weights & Biases](https://wandb.ai/site) as a Machine Learning Engineer.
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning (JAX/Flax).
 - 🚀 I build MLOps pipelines for open-source repositories like Keras, Kaolin-Wisp, YOLOv5, etc.
-- 🌱 I'm currently learning Neural Rendering, Neural Approximation and Vision-Language Modelling.
+- 🌱 I'm currently learning Neural Rendering, Neural Approximation and Machine Learning on 3D Data.
 - 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers.
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles [[twitter.com/soumikrakshit96](twitter.com/soumikrakshit96) | [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)].
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
