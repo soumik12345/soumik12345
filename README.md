@@ -11,7 +11,7 @@
   - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
-- 🎮 Fun fact: I love playing video games (currently playing God of War Ragnarok).
+- 🎮 Fun fact: I love playing video games (currently playing Sniper Elite 5).
 - 😁 More about myself at [wandb.me/soumik-rakshit](wandb.me/soumik-rakshit).
 
 ### Github Stats
