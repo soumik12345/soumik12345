@@ -14,8 +14,6 @@
 - 🎮 Fun fact: I love playing video games (currently playing Sniper Elite 5).
 - 😁 More about myself at [wandb.me/soumik-rakshit](wandb.me/soumik-rakshit).
 
-### Github Stats
-
 <p>
    <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
       <img alt="Coverage" src="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social" height="25">
