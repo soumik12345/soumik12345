@@ -4,7 +4,7 @@
 
 - 🖥️ I am working at [Weights & Biases](https://wandb.ai/site) as a Machine Learning Engineer.
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning (JAX/Flax).
-- 🚀 I build MLOps pipelines for open-source repositories like [Keras](https://github.com/keras-team/keras), [Kaolin-Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp), [YOLOv5](https://github.com/ultralytics/yolov5), [MonAI](https://monai.io/), [Elegy](https://github.com/poets-ai/elegy), etc.
+- 🚀 I build MLOps pipelines for open-source repositories like [Keras](https://github.com/keras-team/keras), [PyTorch-Geometric](https://github.com/pyg-team/pytorch_geometric), [Kaolin-Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp), [YOLOv5](https://github.com/ultralytics/yolov5), [MonAI](https://monai.io/), [Elegy](https://github.com/poets-ai/elegy), etc.
 - 👷‍♂️ I'm currently contributing actively on [TrystAI/restorers](https://github.com/TrystAI/restorers)
 - 🌱 I'm currently learning Neural Rendering, Neural Approximation and Machine Learning on 3D Data.
 - 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers (if I have the bandwidth).
