@@ -13,7 +13,7 @@
   - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing Sekiro: Shadows Die Twice 🗡️).
-- 😁 More about myself at [https://geekyrakshit.dev/](https://geekyrakshit.dev/).
+- 😁 More about myself at [https://geekyrakshit.dev](https://geekyrakshit.dev).
 
 <p>
    <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
