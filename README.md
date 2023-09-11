@@ -9,8 +9,8 @@
 - 🌱 I'm currently learning Neural Rendering, Neural Approximation, and Machine Learning on 3D Data.
 - 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers (if I have the bandwidth).
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles
-  - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
-  - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
+  - [Twitter](https://twitter.com/soumikRakshit96?s=20&t=3medHHzOufWBoXFLQzcP6w)
+  - [LinkedIn](https://www.linkedin.com/in/soumikrakshit/)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing Sekiro: Shadows Die Twice 🗡️).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
