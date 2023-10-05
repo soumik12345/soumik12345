@@ -1,4 +1,4 @@
-# Hello, I'm Soumik Rakshit 👋
+# Hello, I'm [Soumik Rakshit](https://geekyrakshit.dev/) 👋
 
 ### About Me
 
