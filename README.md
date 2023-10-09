@@ -6,7 +6,7 @@
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning (JAX/Flax).
 - 🚀 I build MLOps pipelines for open-source repositories like [Keras](https://github.com/keras-team/keras), [PyTorch-Geometric](https://github.com/pyg-team/pytorch_geometric), [Kaolin-Wisp](https://github.com/NVIDIAGameWorks/kaolin-wisp), [Ultralytics](https://github.com/ultralytics/ultralytics), [MonAI](https://monai.io/), etc.
 - 👷‍♂️ I'm currently contributing actively on [keras-team/keras-core](https://github.com/keras-team/keras-core) and [soumik12345/wandb-addons](https://github.com/soumik12345/wandb-addons).
-- 🌱 I'm currently learning Neural Rendering, Neural Approximation, and Machine Learning on 3D Data.
+- 🌱 I'm currently learning Neural Rendering, Neural Approximation, and Multi-modal ML models.
 - 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers (if I have the bandwidth).
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles
   - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
