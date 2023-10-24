@@ -12,7 +12,7 @@
   - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
-- 🎮 Fun fact: I love playing video games (currently playing [Starfield](https://store.steampowered.com/app/1716740/Starfield/)).
+- 🎮 Fun fact: I love playing video games (currently playing [Spider-Man 2](https://www.playstation.com/en-in/games/marvels-spider-man-2/)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
 
 <p>
