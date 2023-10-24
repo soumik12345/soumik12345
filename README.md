@@ -19,6 +19,5 @@
    <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
       <img alt="Coverage" src="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social" height="25">
    </a>
-   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=soumik12345&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
    <img alt="Last Update" src="https://img.shields.io/github/last-commit/soumik12345/soumik12345?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
