@@ -11,7 +11,7 @@
   - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
-- 🎮 Fun fact: I love playing video games (currently playing [Witcher 3](https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/)).
+- 🎮 Fun fact: I love playing video games (currently playing [Elden Ring](https://store.playstation.com/en-in/product/EP0700-PPSA04609_00-ELDENRINGSOTEE00)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
 
 <p>
