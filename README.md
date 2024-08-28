@@ -6,7 +6,7 @@
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning.
 - 👷‍♂️ I'm currently working actively on [wandb/Hemm](https://github.com/wandb/Hemm).
 - 🌱 I'm currently learning about Diffusion Models, and Multi-modal ML models.
-- 👬 I would love to collaborate on interesting Computer Vision and Graphics projects and implementations of Deep Learning Research Papers (if I have the bandwidth).
+- 👬 I would love to collaborate on interesting ML projects and implementations of ML Research Papers (if I have the bandwidth).
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles
   - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
