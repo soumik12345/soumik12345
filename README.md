@@ -8,8 +8,8 @@
 - 🌱 I'm currently learning about Diffusion Models, and Multi-modal ML models.
 - 👬 I would love to collaborate on interesting ML projects and implementations of ML Research Papers (if I have the bandwidth).
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles
-  - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
-  - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
+  - [twitter.com/soumikrakshit96](https://twitter.com/soumikrakshit96)
+  - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing [Elden Ring](https://store.playstation.com/en-in/product/EP0700-PPSA04609_00-ELDENRINGSOTEE00)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
