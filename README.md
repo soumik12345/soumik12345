@@ -8,8 +8,8 @@
 - 🌱 I'm currently learning about Diffusion Models, and Multi-modal ML models.
 - 👬 I would love to collaborate on interesting ML projects and implementations of ML Research Papers (if I have the bandwidth).
 - 📲 You can reach me at soumik.rakshit@wandb.com or on my social media profiles
-  - [twitter.com/soumikrakshit96](twitter.com/soumikrakshit96)
-  - [linkedin.com/in/soumikrakshit](linkedin.com/in/soumikrakshit)
+  - [Twitter](https://twitter.com/soumikRakshit96?s=20&t=3medHHzOufWBoXFLQzcP6w)
+  - [LinkedIn](https://www.linkedin.com/in/soumikrakshit/)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing [Days Gone](https://store.playstation.com/en-in/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
