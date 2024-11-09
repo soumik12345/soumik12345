@@ -14,9 +14,5 @@
 - 🎮 Fun fact: I love playing video games (currently playing [Days Gone](https://store.playstation.com/en-in/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
 
-<p>
-   <a href="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social">
-      <img alt="Coverage" src="https://img.shields.io/github/followers/soumik12345?label=Follow&style=social" height="25">
-   </a>
-   <img alt="Last Update" src="https://img.shields.io/github/last-commit/soumik12345/soumik12345?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumik12345&theme=dark)](https://git.io/streak-stats)
