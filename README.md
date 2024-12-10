@@ -11,5 +11,5 @@
   - [twitter.com/soumikrakshit96](https://twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
-- 🎮 Fun fact: I love playing video games (currently playing [Days Gone](https://store.playstation.com/en-in/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE)).
+- 🎮 Fun fact: I love playing video games (currently playing [Assassin's Creed Mirage](https://www.playstation.com/en-in/games/assassins-creed-mirage/)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
