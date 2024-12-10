@@ -13,6 +13,3 @@
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing [Days Gone](https://store.playstation.com/en-in/product/EP9000-CUSA09175_00-DAYSGONECOMPLETE)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=soumik12345&show_icons=true&theme=dark#gh-dark-mode-only)]([https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only](https://github.com/soumik12345))
