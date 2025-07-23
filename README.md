@@ -5,7 +5,7 @@
 - 🖥️ I am working at [Roboflow](https://roboflow.com/) as a Machine Learning Engineer.
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning.
 - 💼 I have formerly worked at [Weights & Biases](https://wandb.ai/site) as a Machine Learning Engineer.
-- 👷‍♂️ I'm currently working actively on developer tooling for AI Engineers.
+- 👷‍♂️ I'm currently working actively on making computer vision accessible to the world.
 - 🌱 I'm currently learning about Diffusion Models, and Multi-modal ML models.
 - 📲 You can reach me at soumik@roboflow.com or on my social media profiles
   - [twitter.com/soumikrakshit96](https://twitter.com/soumikrakshit96)
