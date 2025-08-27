@@ -7,8 +7,8 @@
 - 💼 I have formerly worked at [Roboflow](https://roboflow.com/) and [Weights & Biases](https://wandb.ai/site) as Machine Learning Engineer.
 - 👷‍♂️ I'm currently working actively on making computer vision accessible to the world.
 - 🌱 I'm currently researching on post-training paradigms for Diffusion Models, and Multi-modal ML models.
-- 📲 You can reach me at soumik@roboflow.com or on my social media profiles
-  - [twitter.com/soumikrakshit96](https://twitter.com/soumikrakshit96)
+- 📲 You can reach me at soumik@athenaagent.com or on my social media profiles
+  - [x.com/soumikrakshit96](https://x.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing [Assassin's Creed Mirage](https://www.playstation.com/en-in/games/assassins-creed-mirage/)).
