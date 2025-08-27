@@ -2,10 +2,11 @@
 
 ### About Me
 
+- 🧑‍💻 I am currently working as a Machine Learning Researcher at [AthenaAgent](https://athenaagent.com/).
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning.
 - 💼 I have formerly worked at [Roboflow](https://roboflow.com/) and [Weights & Biases](https://wandb.ai/site) as Machine Learning Engineer.
 - 👷‍♂️ I'm currently working actively on making computer vision accessible to the world.
-- 🌱 I'm currently learning about Diffusion Models, and Multi-modal ML models.
+- 🌱 I'm currently researching on post-training paradigms for Diffusion Models, and Multi-modal ML models.
 - 📲 You can reach me at soumik@roboflow.com or on my social media profiles
   - [twitter.com/soumikrakshit96](https://twitter.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
