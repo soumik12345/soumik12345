@@ -11,5 +11,5 @@
   - [x.com/soumikrakshit96](https://x.com/soumikrakshit96)
   - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
-- 🎮 Fun fact: I love playing video games (currently playing [Assassin's Creed Mirage](https://www.playstation.com/en-in/games/assassins-creed-mirage/)).
+- 🎮 Fun fact: I love playing video games (currently playing [Ghost of Yōtei](https://www.playstation.com/en-in/games/ghost-of-yotei/)).
 - 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
