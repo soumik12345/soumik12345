@@ -2,9 +2,9 @@
 
 ### About Me
 
-- 🧑‍💻 I am currently working as a Machine Learning Researcher at [AthenaAgent](https://athenaagent.com/).
+- 🧑‍💻 I am currently working as a Machine Learning Engineer at [Zomato](https://www.zomato.com/).
 - 📣 I am a [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-soumik-rakshit) in Machine Learning.
-- 💼 I have formerly worked at [Roboflow](https://roboflow.com/) and [Weights & Biases](https://wandb.ai/site) as Machine Learning Engineer.
+- 💼 I have formerly worked at [AthenaAgent](https://athenaagent.com/), [Roboflow](https://roboflow.com/) and [Weights & Biases](https://wandb.ai/site) as Machine Learning Engineer.
 - 👷‍♂️ I'm currently working actively on developing scaleable and reliable Agents through the route of Artificial Narrow Intelligence.
 - 🌱 I'm currently researching on post-training paradigms for Diffusion Models, and Multi-modal ML models.
 - 📲 You can reach me at soumik@athenaagent.com or on my social media profiles
