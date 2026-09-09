@@ -12,4 +12,4 @@
   - [linkedin.com/in/soumikrakshit](https://linkedin.com/in/soumikrakshit)
 - 🧔🏽‍♂️ Pronouns: He/His/Him.
 - 🎮 Fun fact: I love playing video games (currently playing [Ghost of Yōtei](https://www.playstation.com/en-in/games/ghost-of-yotei/)).
-- 😁 More about myself at [geekyrakshit.dev](https://geekyrakshit.dev).
+- 😁 More about myself at [soumik12345.github.io](https://soumik12345.github.io/).
